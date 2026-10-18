@@ -1,0 +1,28 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+
+# 数据集、模型、二进制文件
+*.pkl
+*.npy
+*.h5
+*.hdf5
+*.zip
+*.gz
+*.tar
+*.rar
+*.csv
+dataset/
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+.vscode/
